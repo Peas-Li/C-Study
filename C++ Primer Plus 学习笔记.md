@@ -292,7 +292,7 @@
 
 1. 初始化数组
 
-   1. typeName variable = {value1, value2, ....}; //等号可以省略,只能在定义数组时初始化，另外数组不能赋给另一个数组；
+   1. typeName variable[] = {value1, value2, ....}; //等号可以省略,只能在定义数组时初始化，另外数组不能赋给另一个数组；
 
    2. int/long/float/double variable[4] = {1, 2}; //剩下的默认为0；
 
